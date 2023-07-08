@@ -1,4 +1,15 @@
-# Mandatory Tasks
+# Pick and Place with TIAGO Robot in ROS
+
+Team project for Intelligent Robotics course in University of Padua, 2023
+
+
+Team members: **Mohamed Abdelwahab**, **Victor Miguel**, **Onur Akman**
+
+## Docs
+* **[Instructions](https://github.com/aonurakman/ROS-Pick-n-Place/blob/b44f005c84018cad49ff78600be390d785f54468/Instructions.pdf)**: Instructions for this project, tasks and additional requirements.
+* **[Report](https://github.com/aonurakman/ROS-Pick-n-Place/blob/b44f005c84018cad49ff78600be390d785f54468/Report.pdf)**: Our final report, our approach and reasoning.
+
+![Picking](https://i.hizliresim.com/o8t5eu5.PNG)
 
 ### 1) Building the workspace
 	
