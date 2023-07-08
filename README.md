@@ -1,4 +1,4 @@
-# Pick and Place with TIAGO Robot in ROS
+# Pick and Place with TIAGO Robot in ROS2
 
 Team project for Intelligent Robotics course in University of Padua, 2023
 
